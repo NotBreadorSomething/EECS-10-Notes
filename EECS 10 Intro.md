@@ -60,6 +60,7 @@ But how do we describe the size of data.
 | Kilobyte | KB     | 1024 bytes      |
 | Megabyte | MG     | 1024 KB         |
 | Gigabyte | GB     | 1024 GB         |
+
 Computers uses bytes in order to be able to tell when a new digit starts and ends.
 So if we have a list of binary, `0100101011100110` we would divide it in eights, `01001010 11100110`.
 ### Converting Decimal to Binary
